@@ -8,3 +8,5 @@ My notable projects are:
 - [**Clan-Config**](https://gitlab.com/RuboGubo/clan-config) My fully declarative multi-machine server config with secrets management for automatic project deployment.
 - [**PrimesRust**](https://gitlab.com/client-projects19/public-projects/primesrust) My project for calculating prime numbers in a distributed verified way across many machiens in the browser.
 - [**rocket_sqlx_migrator**](https://gitlab.com/RuboGubo/rocket_sqlx_migrator) My opensource library with 1500 downloads for applying db migrations at start up.
+
+I'm mostly on [GitLab](https://gitlab.com/RuboGubo) now
