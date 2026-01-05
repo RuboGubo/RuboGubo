@@ -1,8 +1,6 @@
-# RuboGubo
+# Hi! I'm RuboGubo
 
-"Automate yourself out of a job"
-
-Hi! it's me!
+_"Automate yourself out of a job"_
 
 I'm a BSc Computer Science student currently on track for a first.
 
